@@ -1,3 +1,6 @@
+body{
+    width: 100%;
+}
 /* Navbar */
 .navbar-brand {
     font: 32px Viga;
@@ -79,13 +82,13 @@
     border-radius: 12px;
     box-shadow: 0 3px 20px rgba(0, 0, 0, 0.6);
 }
-/* .info-panel-toptalent {
+.info-panel-toptalent {
     background-color: white;
     padding: 30px;
     margin-top: 20px;
     border-radius: 12px;
     box-shadow: 0 3px 20px rgba(0, 0, 0, 0.6);
-} */
+}
 
 .info-panel-volunteer {
     background-color:#122a58;
